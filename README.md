@@ -3,7 +3,7 @@ Comparing results of different state-of-the-art CNN architectures built on SMILE
 
 Dataset of SMILES was taken from https://github.com/hromi/SMILEsmileD
 
-The state-of-the-art CNN architecctures used to compare:
+The state-of-the-art CNN architectures used to compare:
 1) ResNet50
 2) VGG16
 3) ResNet152V2
